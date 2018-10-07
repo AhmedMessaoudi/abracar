@@ -1,4 +1,4 @@
-# get github User
+# search for a github User
 to run the application open index.html in the browser.
 
 # Todo:
